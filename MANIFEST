@@ -3,5 +3,7 @@ Makefile.PL
 MANIFEST
 mySplashScreen.pm
 mySplashScreen.pod
+default.gif
+trog_splash.gif
 README
 test.pl

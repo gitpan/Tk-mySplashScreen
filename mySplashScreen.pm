@@ -9,7 +9,7 @@
 
 ## Global Stuff ###################################
  #Tk Version String
-  $Tk::mySplashScreen::VERSION = '1.0.2';
+  $Tk::mySplashScreen::VERSION = '1.0.3';
  #package declaration
   package Tk::mySplashScreen;
  #export so that we don't need to call Tk::mySplashScreen, just mySplashScreen

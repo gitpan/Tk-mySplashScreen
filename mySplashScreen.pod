@@ -3,15 +3,6 @@
 Tk::mySplashScreen - annother Perl/Tk implementation of a splash screen
 
 
-=head1	TO DO
-
-=over
-	
-=item	write test scripts
-
-=back
-
-
 =head1	SYNOPSIS
 
 
